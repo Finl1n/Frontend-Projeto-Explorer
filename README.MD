@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by (https://www.linkedin.com/in/gustavo-martins-872373155/)
+Feito com ♥ by Gustavo (https://explorerfood-bygustavo.netlify.app/)
